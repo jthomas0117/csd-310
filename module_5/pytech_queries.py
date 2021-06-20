@@ -24,4 +24,4 @@ sam = students.find_one({"student_id": 1007})
  
 print(" Student ID: " + str(sam["student_id"]) + "\n First Name: " + sam["first_name"] + "\n Last Name: " + sam["last_name"] + "\n")
 
-input("\n\n End of program, press any key to exit... ")
+input("\n\n End of program, press any key to continue... ")
